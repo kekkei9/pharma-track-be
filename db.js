@@ -4,7 +4,7 @@ const { Pool } = pkg;
 const pool = new Pool({
   user: "pharma_track_user",
   host: "dpg-cpk6g9uct0pc73b38hog-a",
-  database: "pharma_track",
+  database: "pharma_track_tthf",
   password: "HvasiouShKxZAfSoQiHOTIJI1ZLiXmBu",
   port: 5432,
 });
